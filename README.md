@@ -5,7 +5,7 @@ Mod of the next developers in YouTube:
 3.- Martín Gesualdo
 4.- Socratech
 
-Hello friends below, I present the sources of the videos of the people who helped me to make this little utility, I also used more information from other sites, but I lost the locations. I hope it can be useful for new students who need to use npm Sharp.
+Hello friends, below I present the sources of the videos of the people who helped me to make this little utility, I also used more information from other sites, but I lost the locations. I hope it can be useful for new students who need to use npm Sharp.
 I thank all the developers for striving to have freely accessible sources of information for the technological development of mankind 👨🏽💻.
 
 - Watch the Class -> https://youtu.be/5M3HYc8PoVw
